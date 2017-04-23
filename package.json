@@ -1,0 +1,25 @@
+{
+  "name": "hexo-less",
+  "version": "0.1.0",
+  "description": "A plugin for hexo, enable post excerpt to be different from post content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchen/hexo-less.git"
+  },
+  "keywords": [
+    "hexo",
+    "excerpt",
+    "abstract",
+    "description"
+  ],
+  "author": "Fu Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuchen/hexo-less/issues"
+  },
+  "homepage": "https://github.com/fuchen/hexo-less#readme"
+}
